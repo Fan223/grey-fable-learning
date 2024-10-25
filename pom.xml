@@ -18,5 +18,6 @@
     <modules>
         <module>ql-express</module>
         <module>spring</module>
+        <module>kafka</module>
     </modules>
 </project>
