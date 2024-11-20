@@ -1,0 +1,9 @@
+server:
+  port: 8001
+
+spring:
+  kafka:
+    bootstrap-servers: 127.0.0.1:9092
+    consumer:
+      group-id: grey-fable-group
+      max-poll-records: 5
